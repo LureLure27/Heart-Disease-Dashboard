@@ -66,7 +66,7 @@ L'interfaccia utente include due visualizzazioni avanzate realizzate con **Plotl
 
 1. **Clona la repository:**
    ```bash
-   git clone [https://github.com/TuoUsername/Nome-Repository.git](https://github.com/TuoUsername/Nome-Repository.git)
+   git clone [https://github.com/LureLure27/Heart-Disease-Dashboard](https://github.com/Heart-Disease-Dashboard)
    cd Nome-Repository
 2. **Crea ambiente virtuale:**
     ```bash
